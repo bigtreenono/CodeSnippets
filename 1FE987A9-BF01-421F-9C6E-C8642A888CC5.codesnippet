@@ -11,7 +11,7 @@
 	<key>IDECodeSnippetContents</key>
 	<string>- (void)dealloc
 {
-    DLog(@"%@ dealloc dealloc dealloc dealloc dealloc", self.class);
+    NSLog(@"%@ dealloc dealloc dealloc dealloc dealloc", self.class);
 }</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1FE987A9-BF01-421F-9C6E-C8642A888CC5</string>

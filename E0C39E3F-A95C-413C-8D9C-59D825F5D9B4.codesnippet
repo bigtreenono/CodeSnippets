@@ -9,7 +9,7 @@
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>DLog(@"22222222222222222222222222222222222222222222222222222222222222");</string>
+	<string>NSLog(@"22222222222222222222222222222222222222222222222222222222222222");</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E0C39E3F-A95C-413C-8D9C-59D825F5D9B4</string>
 	<key>IDECodeSnippetLanguage</key>
