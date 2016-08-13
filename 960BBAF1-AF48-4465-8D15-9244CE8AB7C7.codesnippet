@@ -3,30 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>qqViewWillAppear</string>
+	<string>qqStaticCGFloat</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (void)viewWillAppear:(BOOL)animated {
-    [super viewWillAppear:animated];
-    &lt;##&gt;
-}</string>
+	<string>static CGFloat const &lt;##&gt; = &lt;##&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>96077AC3-110D-45B8-9347-8BCB18808D0B</string>
+	<string>960BBAF1-AF48-4465-8D15-9244CE8AB7C7</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>- (void)viewWillAppear:(BOOL)animated {
-    [super viewWillAppear:animated];
-    &lt;##&gt;
-}</string>
+	<string>static CGFloat const &lt;##&gt; = &lt;##&gt;;</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>viewWillAppear snippet</string>
+	<string>static CGFloat const &lt;##&gt; = &lt;##&gt;;</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

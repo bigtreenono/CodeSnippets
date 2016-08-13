@@ -3,28 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>qqTableView3</string>
+	<string>qqPersistentConnectionManager</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>CodeExpression</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>_tableView = [[UITableView alloc] initWithFrame:self.view.bounds];
-_tableView.delegate = self;
-_tableView.dataSource = self;
-_tableView.separatorStyle = UITableViewCellSeparatorStyleNone;
-[self.view addSubview:_tableView];</string>
+	<string>[JCPersistentConnectionManager sharedManager]</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>917BA90E-5DF4-450A-A482-8BBA5413C240</string>
+	<string>EDDAC209-B263-4E75-BFA3-DD02C1176F4B</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>qqTableView3</string>
+	<string>[JCPersistentConnectionManager sharedManager]</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>My Code Snippet</string>
+	<string>[JCPersistentConnectionManager sharedManager]</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

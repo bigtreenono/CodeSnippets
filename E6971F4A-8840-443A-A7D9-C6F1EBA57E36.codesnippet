@@ -3,30 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>qqViewWillAppear</string>
+	<string>qqRemoveObserverFromNotificationCenter</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (void)viewWillAppear:(BOOL)animated {
-    [super viewWillAppear:animated];
-    &lt;##&gt;
-}</string>
+	<string>[[NSNotificationCenter defaultCenter] removeObserver:self name:&lt;##&gt; object:nil];</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>96077AC3-110D-45B8-9347-8BCB18808D0B</string>
+	<string>E6971F4A-8840-443A-A7D9-C6F1EBA57E36</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>- (void)viewWillAppear:(BOOL)animated {
-    [super viewWillAppear:animated];
-    &lt;##&gt;
-}</string>
+	<string>[[NSNotificationCenter defaultCenter] removeObserver:self name:&lt;##&gt; object:nil];</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>viewWillAppear snippet</string>
+	<string>removeObserver Snippet</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

@@ -9,19 +9,21 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (void)viewDidAppear:(BOOL)animated
-{
+	<string>- (void)viewDidAppear:(BOOL)animated {
     [super viewDidAppear:animated];
-    &lt;##&gt;
+    &lt;##&gt;;
 }</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B9C5916A-C9A0-43B4-9A14-AD99DD102540</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>qqViewDidAppear</string>
+	<string>- (void)viewDidAppear:(BOOL)animated {
+    [super viewDidAppear:animated];
+    &lt;##&gt;;
+}</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>My Code Snippet</string>
+	<string>viewDidAppear Snippet</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

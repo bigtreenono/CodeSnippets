@@ -10,6 +10,58 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>#pragma mark - UITableViewDataSource
+- (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
+    static NSString *reuse = @"reuse";
+    UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:reuse];
+    if (!cell) {
+        cell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:reuse];
+    }
+    cell.textLabel.text = [NSString stringWithFormat:@"section %zd, row %zd", indexPath.section, indexPath.row];
+    return cell;
+}
+
+- (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
+    return 5;
+}
+
+- (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView {
+    return 3;
+}
+
+#pragma mark - UITableViewDelegate
+- (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
+    
+}
+
+- (NSString *)tableView:(UITableView *)tableView titleForHeaderInSection:(NSInteger)section {
+    if (section == 0) {
+        return @"titleForHeaderInSection == 0";
+    } else if (section == 1) {
+        return @"titleForHeaderInSection == 1";
+    } else {
+        return @"titleForHeaderInSection == 2";
+    }
+}
+
+- (NSString *)tableView:(UITableView *)tableView titleForFooterInSection:(NSInteger)section {
+    if (section == 0) {
+        return @"titleForFooterInSection == 0";
+    } else if (section == 1) {
+        return @"titleForFooterInSection == 1";
+    } else {
+        return @"titleForFooterInSection == 2";
+    }
+}
+
+- (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath {
+    return 100;
+}</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>BBC2B340-B2D7-4C4D-9685-0C98C0F51738</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>#pragma mark - UITableViewDataSource
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
 {
     static NSString *reuse = @"reuse";
@@ -74,14 +126,8 @@
 {
     return 100;
 }</string>
-	<key>IDECodeSnippetIdentifier</key>
-	<string>BBC2B340-B2D7-4C4D-9685-0C98C0F51738</string>
-	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
-	<key>IDECodeSnippetSummary</key>
-	<string>qqTableViewDataSource</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>My Code Snippet</string>
+	<string>UITableViewDataSource Snippet</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

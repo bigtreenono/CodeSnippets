@@ -13,11 +13,11 @@
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1D43653A-CA90-4BCC-B5E7-4E5BCBFBFDC5</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string>@property (nonatomic, strong) &lt;##&gt; *&lt;##&gt;;</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>qqStrong</string>
+	<string>@property (nonatomic, strong) &lt;##&gt; *&lt;##&gt;;</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

@@ -13,11 +13,11 @@
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F1CFDC28-4DF5-46F7-99D8-223D851C7F41</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>qqDelegate</string>
+	<string>@property (nonatomic, weak) id &lt;&lt;##&gt;&gt; delegate;</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>My Code Snippet</string>
+	<string>@property (nonatomic, weak) id &lt;&lt;##&gt;&gt; delegate;</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

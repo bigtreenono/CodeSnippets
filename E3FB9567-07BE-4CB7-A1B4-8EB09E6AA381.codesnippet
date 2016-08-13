@@ -6,16 +6,18 @@
 	<string>qqCGFloat</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassInterfaceMethods</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>@property (nonatomic, assign) CGFloat &lt;#haha#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E3FB9567-07BE-4CB7-A1B4-8EB09E6AA381</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>@property (nonatomic, assign) CGFloat &lt;#haha#&gt;;</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>qqCGFloat</string>
+	<string>@property (nonatomic, assign) CGFloat &lt;#haha#&gt;;</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

@@ -9,15 +9,15 @@
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>NSLog(@"3333333333333333333333333333333333333333333333333333333333333333333333333333333333");</string>
+	<string>NSLog(@"333333333333333333333333333333333333");</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>51AAAFC6-6104-4CC2-8D12-2FB4DC24B2B1</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>qq333</string>
+	<string>NSLog(@"333333333333333333333333333333333333");</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>My Code Snippet</string>
+	<string>NSLog(@"333333333333333333333333333333333333");</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

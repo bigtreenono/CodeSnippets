@@ -9,19 +9,21 @@
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>if (self = [super init])
-    {
-        &lt;##&gt;
-    }
-    return self;</string>
+	<string>if (self = [super init]) {
+    &lt;##&gt;
+}
+return self;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>234D2D72-435D-4C46-A156-5FFEBA260FAE</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>qqInit</string>
+	<string>if (self = [super init]) {
+    &lt;##&gt;
+}
+return self;</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>My Code Snippet</string>
+	<string>init Snippet</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

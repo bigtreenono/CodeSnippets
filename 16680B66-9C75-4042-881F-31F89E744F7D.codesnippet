@@ -15,9 +15,9 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>qqAlertView</string>
+	<string>[[[UIAlertView alloc] initWithTitle:@"" message:&lt;#haha#&gt; delegate:nil cancelButtonTitle:@"确定" otherButtonTitles: nil] show];</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>qqAlertView</string>
+	<string>UIAlertView snippet</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

@@ -3,14 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>qqViewWillDisappear</string>
+	<string>qqViewWillDisappear shortcut</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (void)viewWillDisappear:(BOOL)animated
-{
+	<string>- (void)viewWillDisappear:(BOOL)animated {
     [super viewWillDisappear:animated];
     &lt;##&gt;
 }</string>
@@ -19,9 +18,12 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>qqViewWillDisappear</string>
+	<string>- (void)viewWillDisappear:(BOOL)animated {
+    [super viewWillDisappear:animated];
+    &lt;##&gt;
+}</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>qqViewWillDisappear</string>
+	<string>viewWillDisappear snippet</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
