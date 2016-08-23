@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>qqRedColor</string>
+	<string>qqWeak</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>ClassInterfaceMethods</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string> [UIColor redColor];</string>
+	<string>@property (nonatomic, weak) &lt;##&gt; *&lt;##&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>63BF9534-ADEC-407E-B659-093A0322C277</string>
+	<string>7F5E048E-94F9-45C8-9E91-48365804CC2A</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string> [UIColor redColor];</string>
+	<string>@property (nonatomic, weak) &lt;##&gt; *&lt;##&gt;;</string>
 	<key>IDECodeSnippetTitle</key>
-	<string> [UIColor redColor];</string>
+	<string>@property (nonatomic, weak) &lt;##&gt; *&lt;##&gt;;</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
