@@ -3,24 +3,28 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>qqCopy</string>
+	<string>qqAsync</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, copy) &lt;##&gt; *&lt;##&gt;;</string>
+	<string>dispatch_async(dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0), ^{
+        
+    });</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>E1001819-5C74-4469-A265-DCF7841455E8</string>
+	<string>756FC905-CB09-481A-9381-D4DADBDFE178</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>@property (nonatomic, copy) &lt;##&gt; *&lt;##&gt;;</string>
+	<string>dispatch_async(dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0), ^{
+        
+    });</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>@property (nonatomic, copy) &lt;##&gt; *&lt;##&gt;;</string>
+	<string>qqAsync</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
