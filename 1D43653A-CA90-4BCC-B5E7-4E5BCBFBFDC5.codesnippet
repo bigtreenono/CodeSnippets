@@ -6,7 +6,7 @@
 	<string>qqStrong</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassInterfaceMethods</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>@property (nonatomic, strong) &lt;##&gt; *&lt;##&gt;;</string>
