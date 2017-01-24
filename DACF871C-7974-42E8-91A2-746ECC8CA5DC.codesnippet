@@ -9,15 +9,15 @@
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>__strong typeof(weakSelf) self = weakSelf;</string>
+	<string>@strongify(self);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DACF871C-7974-42E8-91A2-746ECC8CA5DC</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>__strong typeof(weakSelf) self = weakSelf;</string>
+	<string>@strongify(self);</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>__strong typeof(weakSelf) self = weakSelf;</string>
+	<string>@strongify(self);</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

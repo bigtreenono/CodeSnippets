@@ -3,21 +3,28 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>qqWeakSelf</string>
+	<string>qqTimeConsuming</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@weakify(self);</string>
+	<string>NSMutableArray *marr = [NSMutableArray array];
+    NSMutableArray *marr2 = [NSMutableArray array];
+    NSMutableArray *marr3 = [NSMutableArray array];
+    for (int i = 0; i &lt; 9999999; ++i) {
+        [marr addObject:@(i)];
+        [marr2 addObject:@(i)];
+        [marr3 addObject:@(i)];
+    }</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>749E90D5-50C8-43FF-8A31-D03EAA585386</string>
+	<string>C585D65E-7670-4C5C-98AF-19F3C19775AA</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>@weakify(self);</string>
+	<string>qqTimeConsuming</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>@weakify(self);</string>
+	<string>qqTimeConsuming</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
