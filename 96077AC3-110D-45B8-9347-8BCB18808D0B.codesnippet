@@ -11,6 +11,7 @@
 	<key>IDECodeSnippetContents</key>
 	<string>- (void)viewWillAppear:(BOOL)animated {
     [super viewWillAppear:animated];
+    DDLogWarn(@"viewWillAppear %@", self.class);
     &lt;##&gt;
 }</string>
 	<key>IDECodeSnippetIdentifier</key>

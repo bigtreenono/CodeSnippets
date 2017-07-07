@@ -9,15 +9,15 @@
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>NSLog(@"222222222222222222222222222222222222");</string>
+	<string>DDLogWarn(@"222222222222222222222222222222222222");</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E0C39E3F-A95C-413C-8D9C-59D825F5D9B4</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>NSLog(@"222222222222222222222222222222222222");</string>
+	<string>DDLogWarn(@"222222222222222222222222222222222222");</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>NSLog(@"222222222222222222222222222222222222");</string>
+	<string>DDLogWarn(@"222222222222222222222222222222222222");</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

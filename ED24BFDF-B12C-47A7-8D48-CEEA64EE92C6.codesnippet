@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>qqMutableArray</string>
+	<string>Log</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassInterfaceMethods</string>
+		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, strong) NSMutableArray&lt;&lt;##&gt; *&gt; *&lt;##&gt;;</string>
+	<string>DDLogVerbose(@"&lt;##&gt;", &lt;##&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>C5EEBB21-EBC2-492A-A1E2-F3E0C2A47838</string>
+	<string>ED24BFDF-B12C-47A7-8D48-CEEA64EE92C6</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>@property (nonatomic, strong) NSMutableArray *&lt;##&gt;;</string>
+	<string>DDLogVerbose(@"&lt;##&gt;", &lt;##&gt;);</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>@property (nonatomic, strong) NSMutableArray *&lt;##&gt;;</string>
+	<string>DDLogVerbose(@"&lt;##&gt;", &lt;##&gt;);</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
