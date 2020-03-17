@@ -9,15 +9,15 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>log?.debug("4444444444444444444444444444444444")</string>
+	<string>DDLogWarn("444444444444444444444444444444444444")</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>21D12BD1-42ED-473B-8E1B-C221BFC62B85</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>log?.debug("4444444444444444444444444444444444")</string>
+	<string>DDLogWarn("444444444444444444444444444444444444")</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>log?.debug("4444444444444444444444444444444444")</string>
+	<string>DDLogWarn("444444444444444444444444444444444444")</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

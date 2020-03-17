@@ -3,21 +3,26 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>log</string>
+	<string>qqView</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>log?.debug("&lt;##&gt;")</string>
+	<string>UIView *&lt;##&gt;View = UIView.new;
+        verticalLine.backgroundColor = [UIColor fs_mainColor];
+        [self.contentView addSubview:verticalLine];
+        [verticalLine mas_makeConstraints:^(MASConstraintMaker *make) {
+            make.top.offset(20);
+            make.left.offset(15);
+            make.size.mas_equalTo(CGSizeMake(2, 12));
+        }];</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>65A74869-3538-4A8F-A5BB-5351828C59D1</string>
+	<string>16FD122D-1CF7-474E-8E2D-178968250163</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Swift</string>
-	<key>IDECodeSnippetSummary</key>
-	<string>log?.debug("&lt;##&gt;")</string>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>log?.debug("&lt;##&gt;")</string>
+	<string>qqView</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

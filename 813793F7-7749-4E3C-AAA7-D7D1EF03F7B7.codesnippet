@@ -3,21 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>qq111</string>
+	<string>qqFont</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>DDLogWarn("111111111111111111111111111111111111")</string>
+	<string>[UIFont systemFontOfSize:&lt;##&gt;];</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>ED661F37-91B9-4BDD-A6D2-C8DF2742E701</string>
+	<string>813793F7-7749-4E3C-AAA7-D7D1EF03F7B7</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Swift</string>
-	<key>IDECodeSnippetSummary</key>
-	<string>DDLogWarn("111111111111111111111111111111111111")</string>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>DDLogWarn("111111111111111111111111111111111111")</string>
+	<string>qqFont</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

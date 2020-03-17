@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>qqLabel</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>UILabel *&lt;##&gt;Label = UILabel.new;
+label.text = @"资金流分析";
+label.textColor = @[@"BEC4CA", @"1D2228"].themeColor2;
+label.font = [UIFont systemFontOfSize:14];
+[self.contentView addSubview:label];
+[label mas_makeConstraints:^(MASConstraintMaker *make) {
+    make.centerY.equalTo(verticalLine);
+    make.top.offset(&lt;##&gt;);
+    make.left.equalTo(verticalLine.mas_right).offset(8);
+    }];</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>538195FE-0963-4672-BC9E-86F536CF44F9</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>qqLabel</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

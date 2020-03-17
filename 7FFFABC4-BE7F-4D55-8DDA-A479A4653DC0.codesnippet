@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>qq111</string>
+	<string>qqblock</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>DDLogWarn("111111111111111111111111111111111111")</string>
+	<string>@property (nonatomic, copy) void(^&lt;##&gt;)(&lt;##&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>ED661F37-91B9-4BDD-A6D2-C8DF2742E701</string>
+	<string>7FFFABC4-BE7F-4D55-8DDA-A479A4653DC0</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>DDLogWarn("111111111111111111111111111111111111")</string>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>DDLogWarn("111111111111111111111111111111111111")</string>
+	<string>qqblock</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
